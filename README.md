@@ -24,9 +24,9 @@ Este repositorio contiene el **código fuente de mi portfolio personal**, desple
 
 Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desarrollo de software** y el **análisis financiero**. Esta combinación me permite abordar proyectos técnicos con una visión orientada al negocio y a los datos.
 
-- 💻 Desarrollo de aplicaciones web y software
-- 📊 Análisis financiero y modelado de datos
-- 🔍 Orientado a soluciones eficientes y escalables
+- Desarrollo de aplicaciones web y software
+- Análisis financiero y modelado de datos
+- Orientado a soluciones eficientes y escalables
 
 
 ---
@@ -35,10 +35,10 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 
 | Categoría | Descripción |
 |---|---|
-| 🌐 **Desarrollo Web** | Aplicaciones y webs desarrolladas con tecnologías modernas |
-| 📈 **Análisis Financiero** | Modelos, dashboards y herramientas de análisis de datos |
-| 🛠️ **Herramientas & Scripts** | Automatizaciones y utilidades de productividad |
-| 📱 **Apps** | Proyectos de aplicaciones móviles o de escritorio |
+| **Desarrollo Web** | Aplicaciones y webs desarrolladas con tecnologías modernas |
+| **Análisis Financiero** | Modelos, dashboards y herramientas de análisis de datos |
+| **Herramientas & Scripts** | Automatizaciones y utilidades de productividad |
+| **Apps** | Proyectos de aplicaciones móviles o de escritorio |
 
 ---
 
