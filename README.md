@@ -95,6 +95,6 @@ Si quieres colaborar, tienes alguna propuesta o simplemente quieres conectar:
 
 <div align="center">
 
-⭐ *¡Si este proyecto te ha resultado útil o inspirador, no dudes en dejar una estrella! :) *
+⭐ * ¡Si este proyecto te ha resultado útil o inspirador, no dudes en dejar una estrella! :) *
 
 </div>
