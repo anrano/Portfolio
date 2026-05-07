@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Antonio Rañó Ruiz
+# Antonio Rañó Ruiz
 
 ### Software Developer · Financial Analyst
 
