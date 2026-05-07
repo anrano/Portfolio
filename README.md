@@ -31,7 +31,7 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Categoría | Descripción |
 |---|---|
