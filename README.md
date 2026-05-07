@@ -32,17 +32,6 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 
 ---
 
-## Proyectos destacados
-
-| Categoría | Descripción |
-|---|---|
-| **Desarrollo Web** | Aplicaciones y webs desarrolladas con tecnologías modernas |
-| **Análisis Financiero** | Modelos, dashboards y herramientas de análisis de datos |
-| **Herramientas & Scripts** | Automatizaciones y utilidades de productividad |
-| **Apps** | Proyectos de aplicaciones móviles o de escritorio |
-
----
-
 ## Tecnologías
 
 **Programación**
