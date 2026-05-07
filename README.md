@@ -4,7 +4,7 @@
 
 ### Software Developer · Financial Analyst
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-4CAF50?style=for-the-badge)]((https://anrano.github.io/Portfolio/)) 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-4CAF50?style=for-the-badge)](https://anrano.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-raño-ruiz-5b217012a)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rano.ruiz.antonio@gmail.com)
 
@@ -17,7 +17,7 @@
 
 Este repositorio contiene el **código fuente de mi portfolio personal**, desplegado con **GitHub Pages**. En él encontrarás una web donde muestro mi trayectoria profesional, mis proyectos de desarrollo de software y mis trabajos en el ámbito del análisis financiero.
 
-🔗 **Web en línea:** [anrano.github.io/Portfolio](https://anrano.github.io/Portfolio))
+🔗 **Web en línea:** [anrano.github.io/Portfolio](https://anrano.github.io/Portfolio)
 
 ---
 
