@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Sobre este repositorio
+## Sobre este repositorio
 
 Este repositorio contiene el **código fuente de mi portfolio personal**, desplegado con **GitHub Pages**. En él encontrarás una web donde muestro mi trayectoria profesional, mis proyectos de desarrollo de software y mis trabajos en el ámbito del análisis financiero.
 
@@ -20,7 +20,7 @@ Este repositorio contiene el **código fuente de mi portfolio personal**, desple
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desarrollo de software** y el **análisis financiero**. Esta combinación me permite abordar proyectos técnicos con una visión orientada al negocio y a los datos.
 
@@ -33,8 +33,6 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 
 ## 🚀 Proyectos destacados
 
-> Los proyectos están disponibles de forma interactiva en el portfolio. Aquí un resumen de las categorías:
-
 | Categoría | Descripción |
 |---|---|
 | 🌐 **Desarrollo Web** | Aplicaciones y webs desarrolladas con tecnologías modernas |
@@ -44,7 +42,7 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Programación**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
