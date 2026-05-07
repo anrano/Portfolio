@@ -65,24 +65,6 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🌐 Despliegue con GitHub Pages
-
-Este portfolio está desplegado automáticamente mediante **GitHub Pages** desde la rama `main`.
-
-Para ejecutarlo en local:
-
-```bash
-# Clona el repositorio
-git clone https://github.com/tu-usuario/tu-usuario.github.io.git
-
-# Accede al directorio
-cd tu-usuario.github.io
-
-# Abre en tu navegador (o usa Live Server en VS Code)
-open index.html
-```
 
 ---
 
